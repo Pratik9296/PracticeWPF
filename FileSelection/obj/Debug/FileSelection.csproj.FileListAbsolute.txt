@@ -1,0 +1,15 @@
+C:\Users\S\source\repos\FileSelection\FileSelection\bin\Debug\FileSelection.exe.config
+C:\Users\S\source\repos\FileSelection\FileSelection\bin\Debug\FileSelection.exe
+C:\Users\S\source\repos\FileSelection\FileSelection\bin\Debug\FileSelection.pdb
+C:\Users\S\source\repos\FileSelection\FileSelection\obj\Debug\FileSelection.csprojAssemblyReference.cache
+C:\Users\S\source\repos\FileSelection\FileSelection\obj\Debug\MainWindow.g.cs
+C:\Users\S\source\repos\FileSelection\FileSelection\obj\Debug\App.g.cs
+C:\Users\S\source\repos\FileSelection\FileSelection\obj\Debug\FileSelection_MarkupCompile.cache
+C:\Users\S\source\repos\FileSelection\FileSelection\obj\Debug\FileSelection_MarkupCompile.lref
+C:\Users\S\source\repos\FileSelection\FileSelection\obj\Debug\MainWindow.baml
+C:\Users\S\source\repos\FileSelection\FileSelection\obj\Debug\FileSelection.g.resources
+C:\Users\S\source\repos\FileSelection\FileSelection\obj\Debug\FileSelection.Properties.Resources.resources
+C:\Users\S\source\repos\FileSelection\FileSelection\obj\Debug\FileSelection.csproj.GenerateResource.cache
+C:\Users\S\source\repos\FileSelection\FileSelection\obj\Debug\FileSelection.csproj.CoreCompileInputs.cache
+C:\Users\S\source\repos\FileSelection\FileSelection\obj\Debug\FileSelection.exe
+C:\Users\S\source\repos\FileSelection\FileSelection\obj\Debug\FileSelection.pdb
